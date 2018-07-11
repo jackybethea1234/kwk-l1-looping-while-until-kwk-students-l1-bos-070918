@@ -4,6 +4,7 @@ def using_while
 	while x<=10
 	puts "Wingardium Leviosa"
 	#your code here
+	break
 end
 end 
 
