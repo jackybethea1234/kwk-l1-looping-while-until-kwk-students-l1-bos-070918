@@ -5,7 +5,7 @@ def using_while
 	puts "Wingardium Leviosa"
 	x+=1
 	#your code here
-	
+	end 
 end
 
 
