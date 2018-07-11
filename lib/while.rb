@@ -2,7 +2,7 @@
 def using_while
   x=0
 	while x<10
-	"Wingardium Leviosa"
+	puts "Wingardium Leviosa"
 	#your code here
 	break
 end
