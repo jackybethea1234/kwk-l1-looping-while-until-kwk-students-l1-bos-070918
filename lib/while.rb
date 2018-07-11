@@ -1,8 +1,8 @@
 
 def using_while
   x=0
-	puts "Wingardium Leviosa"
 	while x<10
+	"Wingardium Leviosa"
 	#your code here
 	break
 end
